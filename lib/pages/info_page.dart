@@ -226,18 +226,18 @@ class _InfoPageState extends State<InfoPage> {
         ],
       ),
       child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           Counter(
             color: Colors.yellow,
             number: _numero_casos,
             title: "Infectados",
           ),
-          Counter(
-            color: Colors.red,
-            number: _numero_obitos,
-            title: "Mortes",
-          ),
+//          Counter(
+//            color: Colors.red,
+//            number: _numero_obitos,
+//            title: "Mortes",
+//          ),
 
         ],
       ),

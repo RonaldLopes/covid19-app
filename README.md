@@ -1,16 +1,11 @@
 # healthcare
 
-Um aplicativo para orientar a população sobre doenças.
+Um aplicativo desenvolvido para fins didáticos, o objetivo inicial é orientar a população sobre a COVID19. Este aplicativo está sendo desenvolvido, os recursos atuais são:
 
-## Getting Started
+* Visualização do número de casos por estado (Pronto)
+* Quiz de perguntas sobre o COVID19 (Em breve)
+* Tela e recursos de login (Em breve)
 
-This project is a starting point for a Flutter application.
+## Telas
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](assets/telas/1.jpeg)  ![](assets/telas/2.jpeg)   ![](assets/telas/3.jpeg)
